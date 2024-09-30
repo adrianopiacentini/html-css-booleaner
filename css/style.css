@@ -1,13 +1,26 @@
 header {
-    background-color:rgb(68, 160, 252);
-    height:150px;
-    width:100%;
+    background-color: rgb(68, 160, 252);
+    height: 150px;
+    width: 100%;
     background-image: url(../img/pattern.png);
-    position:relative;
-}   
+    position: relative;
+}
 
 .logo {
-    height:50%;
-    position:absolute;
-    bottom:0;
+    height: 50%;
+    position: absolute;
+    bottom: 0;
+}
+
+.grey {
+    color: lightslategrey;
+}
+
+.author {
+    color: aqua;
+}
+
+.date {
+    color: lightslategrey;
+    font-size: 10px;
 }
