@@ -24,3 +24,28 @@ header {
     color: lightslategrey;
     font-size: 10px;
 }
+
+.sharpen {
+    background-color: #FFFF00;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    text-align: left;
+    padding: 4px;
+}
+
+.table-head {
+    color: white;
+    background-color: dodgerblue;
+}
+
+.table-blue {
+    background-color: lightblue;
+}
